@@ -1,0 +1,24 @@
+{
+    "plants": [
+        {
+            "name": "carrion flower",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Amorphophallus_Wilhelma.jpg/200px-Amorphophallus_Wilhelma.jpg",
+            "id": "a71c0235-be5c-4bdd-9713-5762c426e073"
+        },
+        {
+            "name": "Rosa rubiginosa",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rosa_rubiginosa_1.jpg/220px-Rosa_rubiginosa_1.jpg",
+            "id": "4080300e-1061-49f7-8f9e-856a04e7fb08"
+        },
+        {
+            "name": "Nymphaea nouchali var. caerulea",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nymphaea_caerulea_%28Nymphaeaceae%29.jpg/220px-Nymphaea_caerulea_%28Nymphaeaceae%29.jpg",
+            "id": "f79c306c-5251-44f8-b9f6-a681ccd5aff6"
+        },
+        {
+            "name": "Brusture",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Arctium_lappa02.jpg/200px-Arctium_lappa02.jpg",
+            "id": "3c3028a4-8bb2-435c-bc9c-ab6e0fafca39"
+        }
+    ]
+}
